@@ -240,7 +240,7 @@
     background-color: rgb(255, 251, 247);
     width: 100%;
     padding: 3rem 6rem;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .semiContainer{
